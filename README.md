@@ -1,4 +1,4 @@
-taskgoups
+myconfigs
 =========
 
-In QGIS configure panels and tool bars for specific tasks you can change at run time to fit with your work flow
+In QGIS configure panel and tool bar visibility and placement for specific tasks
